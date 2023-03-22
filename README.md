@@ -1,3 +1,8 @@
+FreeImage-Mirror
+-----------------------------------------------------------------------------
+I have created this repository because all other mirrors are outdated, and using SVN is not an option.
+
+
 What is FreeImage ?
 -----------------------------------------------------------------------------
 FreeImage is an Open Source library project for developers who would like to support popular graphics image formats like PNG, BMP, JPEG, TIFF and others as needed by today's multimedia applications.
